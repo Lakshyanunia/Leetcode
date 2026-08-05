@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1844-replace-all-digits-with-characters](https://github.com/Lakshyanunia/Leetcode/tree/master/1844-replace-all-digits-with-characters) |
 | [3110-score-of-a-string](https://github.com/Lakshyanunia/Leetcode/tree/master/3110-score-of-a-string) |
 | [3174-clear-digits](https://github.com/Lakshyanunia/Leetcode/tree/master/3174-clear-digits) |
 ## Stack
