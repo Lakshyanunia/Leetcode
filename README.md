@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1528-shuffle-string](https://github.com/Lakshyanunia/Leetcode/tree/master/1528-shuffle-string) |
 | [1844-replace-all-digits-with-characters](https://github.com/Lakshyanunia/Leetcode/tree/master/1844-replace-all-digits-with-characters) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Lakshyanunia/Leetcode/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [3110-score-of-a-string](https://github.com/Lakshyanunia/Leetcode/tree/master/3110-score-of-a-string) |
@@ -22,4 +23,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Lakshyanunia/Leetcode/tree/master/1935-maximum-number-of-words-you-can-type) |
+## Array
+|  |
+| ------- |
+| [1528-shuffle-string](https://github.com/Lakshyanunia/Leetcode/tree/master/1528-shuffle-string) |
 <!---LeetCode Topics End-->
