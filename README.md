@@ -27,4 +27,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1528-shuffle-string](https://github.com/Lakshyanunia/Leetcode/tree/master/1528-shuffle-string) |
+| [2373-largest-local-values-in-a-matrix](https://github.com/Lakshyanunia/Leetcode/tree/master/2373-largest-local-values-in-a-matrix) |
+## Matrix
+|  |
+| ------- |
+| [2373-largest-local-values-in-a-matrix](https://github.com/Lakshyanunia/Leetcode/tree/master/2373-largest-local-values-in-a-matrix) |
 <!---LeetCode Topics End-->
