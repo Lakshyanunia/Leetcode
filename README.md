@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Lakshyanunia/Leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1844-replace-all-digits-with-characters](https://github.com/Lakshyanunia/Leetcode/tree/master/1844-replace-all-digits-with-characters) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Lakshyanunia/Leetcode/tree/master/1935-maximum-number-of-words-you-can-type) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Lakshyanunia/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3110-score-of-a-string](https://github.com/Lakshyanunia/Leetcode/tree/master/3110-score-of-a-string) |
 | [3174-clear-digits](https://github.com/Lakshyanunia/Leetcode/tree/master/3174-clear-digits) |
 | [3838-weighted-word-mapping](https://github.com/Lakshyanunia/Leetcode/tree/master/3838-weighted-word-mapping) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1528-shuffle-string](https://github.com/Lakshyanunia/Leetcode/tree/master/1528-shuffle-string) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Lakshyanunia/Leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Lakshyanunia/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Lakshyanunia/Leetcode/tree/master/2373-largest-local-values-in-a-matrix) |
 | [3838-weighted-word-mapping](https://github.com/Lakshyanunia/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Matrix
@@ -42,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Lakshyanunia/Leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+## Two Pointers
+|  |
+| ------- |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Lakshyanunia/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 <!---LeetCode Topics End-->
