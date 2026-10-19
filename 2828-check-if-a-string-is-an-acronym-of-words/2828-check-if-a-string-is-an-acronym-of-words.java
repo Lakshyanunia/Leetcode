@@ -9,7 +9,6 @@ class Solution {
         //     return true;
         // }
         // return false;
-
         int index=0;
         for(String i: words){
             if(s.charAt(index++)!=i.charAt(0)){
