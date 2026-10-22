@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Lakshyanunia/Leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3110-score-of-a-string](https://github.com/Lakshyanunia/Leetcode/tree/master/3110-score-of-a-string) |
 | [3174-clear-digits](https://github.com/Lakshyanunia/Leetcode/tree/master/3174-clear-digits) |
+| [3280-convert-date-to-binary](https://github.com/Lakshyanunia/Leetcode/tree/master/3280-convert-date-to-binary) |
 | [3838-weighted-word-mapping](https://github.com/Lakshyanunia/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Stack
 |  |
@@ -58,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Lakshyanunia/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+## Math
+|  |
+| ------- |
+| [3280-convert-date-to-binary](https://github.com/Lakshyanunia/Leetcode/tree/master/3280-convert-date-to-binary) |
 <!---LeetCode Topics End-->
