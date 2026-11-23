@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1859-sorting-the-sentence](https://github.com/Lakshyanunia/Leetcode/tree/master/1859-sorting-the-sentence) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Lakshyanunia/Leetcode/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Lakshyanunia/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Lakshyanunia/Leetcode/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Lakshyanunia/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Lakshyanunia/Leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3110-score-of-a-string](https://github.com/Lakshyanunia/Leetcode/tree/master/3110-score-of-a-string) |
