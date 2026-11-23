@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1678-goal-parser-interpretation](https://github.com/Lakshyanunia/Leetcode/tree/master/1678-goal-parser-interpretation) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Lakshyanunia/Leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1844-replace-all-digits-with-characters](https://github.com/Lakshyanunia/Leetcode/tree/master/1844-replace-all-digits-with-characters) |
+| [1859-sorting-the-sentence](https://github.com/Lakshyanunia/Leetcode/tree/master/1859-sorting-the-sentence) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Lakshyanunia/Leetcode/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Lakshyanunia/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Lakshyanunia/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -71,4 +72,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/Lakshyanunia/Leetcode/tree/master/0595-big-countries) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Lakshyanunia/Leetcode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Lakshyanunia/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
+## Sorting
+|  |
+| ------- |
+| [1859-sorting-the-sentence](https://github.com/Lakshyanunia/Leetcode/tree/master/1859-sorting-the-sentence) |
+## Bubble Sort
+|  |
+| ------- |
+| [1859-sorting-the-sentence](https://github.com/Lakshyanunia/Leetcode/tree/master/1859-sorting-the-sentence) |
 <!---LeetCode Topics End-->
